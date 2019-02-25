@@ -1,0 +1,7 @@
+fmt text formatting.
+nl line numbering. more powerful than cat
+pr preparing file to print.
+head and tail , -n -f --pid
+less and more, / q g ***less just can be used as last element in pipe, it is usefull to examing lengthy output conveniently.
+cut
+wc
